@@ -2,6 +2,8 @@
 name = "sigmaos_gnumeric"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "SigmaOS gnumeric component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_gnumeric"
